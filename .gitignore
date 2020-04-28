@@ -1,1 +1,8 @@
 *.exe
+
+# ignore everything 
+*
+# except these
+!.gitignore
+!TOOLATE.sav
+
